@@ -5,6 +5,7 @@ body {
 }
 article {
 	align-content: center;
+	text-align: center;
 	width: 100%;
 	display: flex;
 }
