@@ -9,3 +9,7 @@ article {
 	width: 100%;
 	display: flex;
 }
+
+h1 {
+	text-align: center;
+}
