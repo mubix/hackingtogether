@@ -7,9 +7,10 @@ article {
 	align-content: center;
 	text-align: center;
 	width: 100%;
-	display: flex;
 }
 
 h1 {
+	font-size: 100px;
+	margin-bottom: 0;
 	text-align: center;
 }
